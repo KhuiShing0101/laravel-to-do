@@ -15,4 +15,4 @@ jobs:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.NAME }}
           key: ${{ secrets.KEY }}
-          script: "cd /home/ubuntu/devops && deploy.sh"
+          script: "cd /home/ubuntu/devops && ./deploy.sh"
