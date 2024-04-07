@@ -13,7 +13,7 @@ import { Head } from '@inertiajs/vue3';
                     <div class="absolute">
                         <div class="">
                             <h1 class="my-2 text-gray-800 font-bold text-2xl">
-                                Todo App Test
+                                Todo App Test testests
                             </h1>
                             <p class="mb-10 my-2 text-gray-800">Simple Todo App Built with Laravel, Inertia.js and Vue.js</p>
                         </div>
