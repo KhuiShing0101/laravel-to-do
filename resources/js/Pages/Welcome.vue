@@ -8,11 +8,11 @@ import GuestLayout from '@/Layouts/GuestLayout.vue';
             <div class="relative">
                 <div class="absolute">
                     <div class="">
-                        <h2>Test two Three Four Five Eightaaadfasf gg</h2>
+                        <h2>Test By HKS</h2>
                         <h1 class="my-2 text-gray-800 font-bold text-2xl">
-                            Todo App Title Change Again and Again AAdfafaaaa
+                            Todo App 
                         </h1>
-                        <p class="mb-10 my-2 text-gray-800">UPDATED BY DEVHKOPS Again</p>
+                        <p class="mb-10 my-2 text-gray-800">UPDATED BY DEVHKOPS</p>
                         <Link :href="route('todo')" class="sm:w-full lg:w-auto my-2 border rounded md py-4 px-8 text-center bg-indigo-600 text-white hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-700 focus:ring-opacity-50 mt-10">Start using the app</Link>
                     </div>
                 </div>
